@@ -1,29 +1,37 @@
-# vue-tailwind-demo
+# Vue Job Board Prototype
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple job board front-end built with **Vue 3** and **Tailwind CSS**, designed directly from my Figma wireframes.  
 
-## Recommended IDE Setup
+This is the foundation for a full-stack project where I’ll later integrate an **AdonisJS backend** to serve real job listings.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## ✨ Features (so far)
+- Responsive **navigation bar** with mobile hamburger menu
+- **Hero section** with bold, centered headline
+- Two **info cards** (For Developers / For Employers)
+- **Job listings section** with styled cards (job type, title, description, salary, apply button)
+- Clean **footer** with links and copyright
+- Fully responsive for both desktop and mobile
 
-## Customize configuration
+## 🚀 Tech Stack
+- [Vue 3](https://vuejs.org/) (frontend framework)
+- [Vite](https://vitejs.dev/) (fast dev/build tool)
+- [Tailwind CSS](https://tailwindcss.com/) (utility-first styling)
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 🎯 Next Steps
+- Connect to an **AdonisJS API backend**
+- Dynamically fetch job data instead of using sample content
+- Add search and filtering functionality
+- Enhance styling with Tailwind components and transitions
 
-## Project Setup
+## 📸 Design
+Based on Figma wireframes for **desktop** and **mobile** layouts.
 
-```sh
+## ⚡ Getting Started
+Clone the repo and run locally:
+
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
+
