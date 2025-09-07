@@ -25,6 +25,7 @@ This is the foundation for a full-stack project where I’ll later integrate an 
 
 ## 📸 Design
 Based on Figma wireframes for **desktop** and **mobile** layouts.
+Check out the project wireframes on [Figma](https://www.figma.com/file/jpYtCxJX4KsUeUbzPhj9Ly?type=whiteboard) 
 
 ## ⚡ Getting Started
 Clone the repo and run locally:
